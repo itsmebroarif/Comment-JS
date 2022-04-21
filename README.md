@@ -1,4 +1,4 @@
-# Comment-JS
+# Comment JS
 
 #### Library Js Untuk membuat input data menuju google sheets.
 
@@ -10,9 +10,9 @@
 - Beri Nama `Email Subscribers`. Atau Apapun, Itu Tidak masalah.
 - Buat Tabel Seperti Dibawah ini :
 
-  | | A | B | C | D |
-  | --- | :--: | :---: | :-: | :-: |
-  | 1 | date | nama | email |pesan |
+|     |  A   |   B   |  C  | ... |
+| --- | :--: | :---: | :-: | :-: |
+| 1   | date | email |     |     |
 
 > To learn how to add additional input fields, [checkout section 7 below](#7-adding-additional-form-data).
 
@@ -113,3 +113,5 @@ function doPost(e) {
 - Set Key nya menjadi post
 - Tempel link yang sudah kalian dapatkan dari google apps script(https://script.google.com/a/yourdomain.com/macros/s/XXXX…)
 - Masukan Key Yang Kalian buat seperti contoh kalian memiliki form lain selain email ['nama','email','pesan']
+
+#### Developed By Arif Alexander.
