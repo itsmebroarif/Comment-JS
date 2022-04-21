@@ -1,4 +1,4 @@
-# Nyetorin.js
+# Comment-JS
 
 #### Library Js Untuk membuat input data menuju google sheets.
 
