@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Create a new Google Sheet
+## 1. Buat Dokumen Google Sheets Kalian
 
 - Pertama, Buka [Google Sheets](https://docs.google.com/spreadsheets) Dan `Start a new spreadsheet` Dengan `Blank` template.
 - Beri Nama `Email Subscribers`. Atau Apapun, Itu Tidak masalah.
